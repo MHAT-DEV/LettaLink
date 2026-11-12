@@ -1,0 +1,6 @@
+{
+  "name": "LettaLink",
+  "description": "Production-First Universal AI Agent Console for Letta Self-hosted and Cloud environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
