@@ -2,6 +2,9 @@
 
 > **Tagline:** Self-hosted First. Cloud Connected. Agent Agnostic.
 
+> [!WARNING]
+> **Non-Production Demo:** This repository was generated with Gemini and is intended strictly for **educational purposes and further development**. It is **not a ready-to-use application** and should not be deployed in production environments.
+
 **LettaLink** is a production-first Android console designed for managing, configuring, communicating with, and debugging stateful AI agents on **Letta (formerly MemGPT)** servers, now bundled with **LettaTalk Universal TTS & Read Aloud**.
 
 Built with a **zero-mock runtime philosophy**, every metric, agent configuration, core memory block, message turn, speech synthesis, and raw HTTP query connects directly to real Letta v1 endpoints, native device engines, or persists within a local Room database.
